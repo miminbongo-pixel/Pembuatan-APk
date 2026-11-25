@@ -1,0 +1,7 @@
+* text=auto
+*.sh text eol=lf
+android-studio-project/gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
+*.apk binary
+*.aab binary
